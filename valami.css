@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:200');
+
+html, body {
+    height: 100%;
+}
+body {
+    margin: 0px;
+    background-image: url(hatter.jpg);
+    /*background-position: bottom; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*height: 100%;*/
+    background-attachment: fixed;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+ #joedesanyad {
+    position: relative;
+    text-align: center;
+    padding: 27%;
+}
+#joedesanyad p {
+    height: 150px;
+}
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+    margin: 0px;
+    font-size: 50px;
+    text-shadow: 2px 2px #000000;
+
+}
+.gomb {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    font-family: 'Arial';
+    /*left: 55%;
+    top: 80%;*/
+    cursor: pointer;
+    height: 100px;
+}
+
+

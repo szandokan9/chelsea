@@ -1,0 +1,62 @@
+body {
+    margin: 0px;
+    background-color: dodgerblue;
+}
+header {
+    background-color: darkblue;
+    /*margin-top: 0px;*/
+    color: white;
+   /* padding-top: 0px;*/
+}
+header, .fejlec, h1 {
+    margin: 0px;
+    padding: 0px;
+}
+.fejlec {
+    display: inline-block;
+}
+#kep {
+   /* position: relative;*/
+    margin-left: 90%;
+    display: inline-block;
+    float: 
+}
+hr {
+    margin: 0px;
+    padding: 0px;
+}
+.menu {
+    width: 100%;
+    margin: 0 auto;
+}
+nav {
+    background-color: blue;
+    text-decoration: none;
+    cursor: pointer;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 15px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0px;
+}
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+@media screen and (min-width: 768px) {
+    nav ul {
+        display: flex;
+    }
+    
+    nav li {
+        flex: 1 1 0;
+    }
+    
+}
