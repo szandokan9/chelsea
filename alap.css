@@ -1,0 +1,346 @@
+body {
+    margin: 0px;
+    background-color: blue;
+    color: white;
+}
+header {
+    background-color: #000063;
+    /*margin-top: 0px;*/
+    color: white;
+   /* padding-top: 0px;*/
+}
+header, .fejlec, h1 {
+    margin: 0px;
+    padding: 0px;
+}
+.fejlec {
+}
+#kep {
+   /* position: relative;*/
+    margin-left: 0%;
+    margin-top: 0px;
+    padding-bottom: 0%;
+}
+hr {
+    margin: 0px;
+    padding: 0px;
+}
+.menu {
+    width: 100%;
+    margin: 0 auto;
+}
+h3,h4 {
+    color: white;
+}
+
+/*KAPUSOK*/
+.arrizabalaga {
+    color: white;
+    display: inline-block;
+    margin-left: 5%;
+}
+.robgreeeen{
+    color: white;
+    display: inline-block;
+    margin-left: 20%;
+}
+.willy {
+    color: white;
+    display: inline-block;
+    margin-left: 20%;
+}
+.goalies {
+    background-color: #000033;
+}
+.kapusok {
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#posztok {
+    color: darkblue;
+}
+#robgreen {
+    margin-left: 20%;
+}
+#kepa {
+    margin-left: 7%;
+}
+#willycaballero {
+    margin-left: 20%;
+}
+
+
+/*VÉDŐK*/
+.vedok,.kozeppalyasok {
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+}
+.defs,.defs2 {
+    background-color: #000033;
+}
+#antonio {
+    margin-left: 5%;
+}
+#christensen {
+    margin-left: 4%;
+}
+#luiz {
+    margin-left: 4%;
+}
+#arspoetica {
+    margin-left: 4%;
+}
+#zappa {
+    margin-left: 4%;
+}
+#alonso {
+    margin-left: 5%;
+}
+#cahill {
+    margin-left: 9%;
+}
+#ethan {
+    margin-left: 9%;
+}
+#emerson {
+    margin-left: 9%;
+}
+
+.antoniorudiger {
+    color: white;
+    display: inline-block;
+    margin-left: 5%;
+}
+.christensen {
+    color: white;
+    display: inline-block;
+    margin-left: 3%;
+    padding: 2%;
+}
+.davidluiz {
+    color: white;
+    display: inline-block;
+    margin-left: 3%;
+}
+.azpilicueta {
+    color: white;
+    display: inline-block;
+    margin-left: 6%;
+}
+
+.zappacosta {
+    color: white;
+    display: inline-block;
+    margin-left: 2%;
+}
+.marcosalonso {
+    color: white;
+    display: inline-block;
+    margin-left: 4.5%;
+    padding: 2%;
+}
+.garycahill {
+    color: white;
+    display: inline-block;
+    margin-left: 9%;
+}
+.ampaduethan {
+    color: white;
+    display: inline-block;
+    margin-left: 9%;
+}
+.emersonpalm {
+    color: white;
+    display: inline-block;
+    margin-left: 7%;
+}
+/*KÖZÉPPÁLYÁSOK*/
+.midf,.midf2 {
+    background-color: #000033;
+}
+#cesc {
+    margin-left: 5%;
+}
+#drinky {
+    margin-left: 9%;
+}
+#jorgi {
+    margin-left: 9%;
+}
+#kovac {
+    margin-left: 9%;
+}
+
+#ngolo {
+    margin-left: 5%;
+}
+#ross {
+    margin-left: 9%;
+}
+#loftus {
+    margin-left: 9%;
+}
+#victor {
+    margin-left: 9%;
+}
+.kante {
+    color: white;
+    display: inline-block;
+    margin-left: 5%;
+}
+.barkley {
+    color: white;
+    display: inline-block;
+    margin-left: 8%;
+    padding: 2%;
+}
+.loftuscheek {
+    color: white;
+    display: inline-block;
+    margin-left: 5%;
+}
+.moses {
+    color: white;
+    display: inline-block;
+    margin-left: 4%;
+}
+.emersonpalm {
+    color: white;
+    display: inline-block;
+    margin-left: 7%;
+}
+.fabregas {
+    color: white;
+    display: inline-block;
+    margin-left: 5%;
+    padding: 2%;
+}
+.drinkwater {
+    color: white;
+    display: inline-block;
+    margin-left: 7%;
+}
+.jorginho {
+    color: white;
+    display: inline-block;
+    margin-left: 9%;
+}
+.kovacic {
+    color: white;
+    display: inline-block;
+    margin-left: 11%;
+}
+/*TÁMADÓK*/
+.strikers,.strikers2 {
+    background-color: #000033;
+}
+
+#alvaro {
+    margin-left: 5%;
+}
+#olivier {
+    margin-left: 9%;
+}
+#willianke {
+    margin-left: 9%;
+}
+#pedroka {
+    margin-left: 9%;
+}
+#callum {
+    margin-left: 23%;
+}
+#eden {
+    margin-left: 20%;
+}
+.odoi {
+    color: white;
+    display: inline-block;
+    margin-left: 19%;
+}
+.hazard {
+    color: white;
+    display: inline-block;
+    margin-left: 17%;
+    padding: 2%;
+}
+
+
+.morata {
+    color: white;
+    display: inline-block;
+    margin-left: 5%;
+}
+.giroud {
+    color: white;
+    display: inline-block;
+    margin-left: 5%;
+    padding: 2%;
+}
+.willian {
+    color: white;
+    display: inline-block;
+    margin-left: 6%;
+}
+.pedro {
+    color: white;
+    display: inline-block;
+    margin-left: 16%;
+}
+
+/*STADION*/
+
+
+/*LEGENDÁK*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*menü*/
+nav {
+    background-color: blue;
+    text-decoration: none;
+    cursor: pointer;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    display: block;
+    padding: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0px;
+}
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+@media screen and (min-width: 768px) {
+    nav ul {
+        display: flex;
+    }
+    
+    nav li {
+        flex: 1 1 0;
+    }
+    
+}

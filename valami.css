@@ -23,6 +23,8 @@ body {
 }
 #joedesanyad p {
     height: 150px;
+    margin-left: 60%;
+    margin-top: 9%;
 }
 h1 {
     font-family: 'Work Sans', sans-serif;
@@ -44,4 +46,7 @@ h1 {
     height: 100px;
 }
 
+#falkep {
+    margin-left: 80%;
+}
 
